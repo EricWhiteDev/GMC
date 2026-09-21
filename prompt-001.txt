@@ -1,0 +1,5 @@
+Currently, the Gold Mining Circle operates under MKP, which has an organization in the USA, and many affiliates in many other countries.  The Gold Mining Circle carries on operations in various other countries, including in Sweden, etc.  An advantage to holding a weekend while under MKP is that MKP's liability insurance covers weekends if they are held in a region in the world that has an MKP subsidiary.
+
+The open question is whether it is better to continue to operate under MKP, or whether it would be better to incorporate a non-profit organization and apply for 501(c)(3) status, and handle all the details ourselves.
+
+Prepare a document that examines the pros and cons of the two approaches, including liability insurance issues, issues of running a web site, issues of dealing with limitations to MKP's web site, and so on.  Write it as a DOCX file and add it to the current directory.  After review, I will commit and push to the repo.
